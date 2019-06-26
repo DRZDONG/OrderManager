@@ -1,0 +1,4 @@
+Amy|111111|504 Elicott Loop |Houston  |TX|USA  |77009
+Tom|111112|399 Wood City    |San Jose |CA|USA  |50012
+May|111113|102 Village Oaks |Ningbo   |ZJ|China|510054
+Bob|111114|908 Silver Street|New York |NY|USA  |97398

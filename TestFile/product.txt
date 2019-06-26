@@ -1,0 +1,4 @@
+Tofu	   |A food prepared by coagulating soy milk and then pressing the resulting curds into solid white blocks of varying softness. It is a traditional component of East Asian and Southeast Asian cuisines	|AA-123456-MM
+Microwave  |Microwaves are a form of electromagnetic radiation with wavelengths ranging from about one meter to one millimeter; with frequencies between 300 MHz (1 m) and 300 GHz (1 mm).	                    |BB-123456-NN
+Spoon	   |A spoon is a utensil consisting of a small shallow bowl (also known as a head), oval or round, at the end of a handle.																				|CC-222222-MM
+Computer   |A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming													|AB-012345-0A
