@@ -14,7 +14,7 @@ Getting Stated
 -
 ### Downloading and Installing
 
-You can download the whole repository directly and put it into your local directory.
+Download the repository and put it into your local directory.
 
 The `src` directory contains the source code for this database.
 
